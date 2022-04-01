@@ -5,6 +5,7 @@ from matplotlib import pyplot as plt
 import numpy
 import json
 
+
 parameters = "ALLSKY_SFC_SW_DWN"
 community = "RE"
 long,lat = "-77.0720","38.8848"
