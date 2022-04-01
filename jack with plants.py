@@ -4,7 +4,7 @@ import pprint
 from matplotlib import pyplot as plt
 import numpy
 import json
-# fetching the form
+# fetching the form .
 def PlantCall():
     par0 = "ALLSKY_SFC_PAR_TOT"
     par1 = "GWETTOP"
